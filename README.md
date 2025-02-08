@@ -16,7 +16,7 @@ Before running the project, ensure you have [Node.js](https://nodejs.org/) and n
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MovementLabs/Razor_Wallet_Kit_Example.git
+   git clone https://github.com/hanh9458/mint-movevn-movement.git
    cd Razor_Wallet_Kit_Example
    ```
 
